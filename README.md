@@ -1,8 +1,5 @@
-# Course-Management-System-1.0
+# Course-Management-System
 
-Work in progress. Main purpose is to make a system for "Research Methodology" course management. Other courses are optional.
-
-This is a software mainly focused to manage CSE4000 (Research Methodology) course. Here student, Teacher and Chairman can perform their respective operations regarding course management and administration.
 
 ## Software used:
  * Intellij IDEA Community Edition 2018.2
