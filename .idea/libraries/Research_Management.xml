@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Research Management">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Research_Management_jar/Research Management.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Program Files/Java/commons-dbutils-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Program Files/Java/commons-fileupload-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Program Files/Java/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Program Files/Java/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Program Files/Java/ojdbc6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
